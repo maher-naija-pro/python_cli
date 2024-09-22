@@ -1,0 +1,12 @@
+pytest
+pytest-schema
+pre-commit
+typer
+rich
+black
+twine
+sphinx-rtd-theme
+sphinx
+rst2pdf
+setuptools 
+wheel
